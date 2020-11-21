@@ -22,7 +22,7 @@ The features and information this application includes:
 
 ## Deployment
 
-This app is deployed [here](https://travel-planner-gt-project.herokuapp.com/flights)
+This app is deployed [here](https://travel-planner-gt-project.herokuapp.com)
 
 
 ## Installation
